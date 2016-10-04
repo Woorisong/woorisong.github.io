@@ -11,3 +11,4 @@ Woori Song
 - [ ] `css/style.css`
 - [ ] `_images/`
 
+<input type="checkbox" name="vehicle2" value="Car">I have a car
