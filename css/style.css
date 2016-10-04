@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	height: 100vh;
+	background: url("../images/bg-1920.jpg") no-repeat center;
+
+	display: flex;
+	justify-content: center;
+	align-items
+}
