@@ -26,6 +26,6 @@ p {
 
 /* 멀티 컬럼 디자인 */
 div {
-	column-count: 2;
+	column-count: 3;
 	column-gap: 24px;
 }
