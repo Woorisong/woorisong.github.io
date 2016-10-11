@@ -23,3 +23,9 @@ p {
 	/* 글자 색상 */
 	color: #464646;
 }
+
+/* 멀티 컬럼 디자인 */
+div {
+	column-count: 2;
+	column-gap: 24px;
+}
