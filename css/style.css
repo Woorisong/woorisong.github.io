@@ -1,5 +1,5 @@
 body {
-	markin: 0;
+	margin: 0;
 	/* 리딩(leading) 간격을 패턴으로 배경이미지로 그림 */
 	background: url("../images/leading-24.png");
 	font-family: "spoqa Han Sans";
