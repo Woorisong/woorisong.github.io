@@ -3,12 +3,17 @@ body {
 	/* 리딩(leading) 간격을 패턴으로 배경이미지로 그림 */
 	background: url("../images/leading-24.png");
 	font-family: "spoqa Han Sans";
+	/* 행간 line height */
+	line-height: 1.5; /* x1.4 */
+	/* 글자 사이 간격 */
+	letter-spacing: -0.02em;
 }
 
 /* 단락(Paragraph) 디자인 */
 p {
-	margin: 0;
+	margin-top: 0;
+	margin-bottom: 1.5em;
+	/* 글자 색상 */
 	color: #464646;
-	line-height: 1.5;
-
+	/**/
 }
