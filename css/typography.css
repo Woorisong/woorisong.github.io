@@ -9,12 +9,12 @@ body {
 /* 본문 설계(Design) */
 body {
 	font-family: "Spoqa Han Sans", Dotum, Gulim, Sans-serif;
-	font-size: 24px;
+	font-size: 16px;
 	/*글자 줄 사이 간격, 1.2가 브라우저 기본임 */
-	line-height: 1.7; /*40.8px*/
+	line-height: 1.5; /*24px*/
 	color: #4d3a2b;
 	/* Leading 배경 패턴 */
-	background: url(../images/leading-41.png);
+	background: url(../images/leading-24.png);
 }
 	
 
