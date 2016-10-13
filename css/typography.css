@@ -17,9 +17,18 @@ body {
 	background: url(../images/leading-24.png);
 }
 	
+/* 단락 설계 */
 p {
 	margin-top: 0;
 	margin-bottom: 1.5em
+}
+
+/* 제목 설계 */
+h6 {
+	margin-top: 0;
+	margin-bottom: 1.5em;
+	font-size: 1em; /*16px === 1em*/
+	line-height: 1.5em; /* 24px */
 }
 
 /* 레이아웃 설계 */
