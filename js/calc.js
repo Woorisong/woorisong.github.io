@@ -7,7 +7,7 @@ function lineHeight(x){
 }
 
 function fontSize(x, ratio) {
-    ratio = ratio || 1.25;
+    ratio = ratio || 1.33;
     var headings = {};
     headings.h6 = x * ratio;
     headings.h5 = x * ratio * ratio;
