@@ -17,6 +17,10 @@ body {
 	background: url(../images/leading-24.png);
 }
 	
+p {
+	margin-top: 0;
+
+}
 
 /* 레이아웃 설계 */
 body {
