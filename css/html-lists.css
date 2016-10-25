@@ -1,0 +1,37 @@
+.note-list, .note-list ul {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.note-list li {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 24px;
+	background: url(../images/icon-note.png) no-repeat;
+
+}
+
+.color-numbering {
+	padding-left: 1em;
+	color: #acacac;
+}
+
+.color-numbering span {
+	color: #000000;
+}
+
+dd {
+    color: #848484;
+    line-height: 1.7em;
+}
+
+dt {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.text-2 {
+    width: 600px;
+}

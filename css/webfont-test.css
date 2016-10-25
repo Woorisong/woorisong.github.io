@@ -1,0 +1,20 @@
+body {
+
+}
+
+
+.hc-modern {
+	/*글꼴 상속(Inheritance)*/
+	font-family: "YouandiModernTR";
+}
+
+.spoqa {
+	/*글꼴 상속(Inheritance)*/
+}
+
+
+h1 {
+	/*글자 두께를반일반*/
+	font-weight: normal;
+
+}
